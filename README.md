@@ -2,8 +2,8 @@
 
 🛠 **보유 스킬**
 * Python
-  * numpy, pandas, seaborn
-  * selenium,beautifulsoup
+  * numpy, pandas, seaborn, matplotlib, plotly
+  * selenium, beautifulsoup
   * scikit-learn
   * keras, tensorflow
 * SQL
