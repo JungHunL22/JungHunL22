@@ -2,7 +2,7 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&text=JungHun's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 ## ABOUT ME 👋
-<hr>  
+<br>
 <br>
 
 ### 🛠 보유 스킬  
