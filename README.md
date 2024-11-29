@@ -36,7 +36,7 @@
 <br><br>
 
 ### 📝 프로젝트 경험  
- E-COMMERCE 온라인 구매 기록 데이터 분석 🔎 [Project 상세](https://github.com/JungHunL22/Customer_Analysis_PLT)  
+ E-COMMERCE 온라인 구매 기록 데이터 분석 🔎 [Project 상세](https://github.com/JungHunL22/Ecommerce_Analytics)  
  생체 지표에 따른 흡연여부 예측 분석 🔎 [Project 상세](https://github.com/JungHunL22/Smoking-ML-PJT)  
 머신러닝을 이용한 날씨에 따른 역별 관광지 및 맛집 추천 서비스 구현 🔎 [Project 상세](https://github.com/JungHunL22/Final-PJT)
 
